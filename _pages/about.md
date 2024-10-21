@@ -65,7 +65,7 @@ redirect_from:
 # 🎖 Honors and Awards
 - *2018* CALM scholarship, Stephen Z. D. Cheng Education Foundation, Donghua University, China.
 <p></p>
-- *2018* <a href="https://centest.acs.org/materials/Chemistry-Pictures-Chemical-confetti/99/web/2021/06">hemical confetti</a>, C&EN, Chemistry in Pictures.
+- *2018* <a href="https://centest.acs.org/materials/Chemistry-Pictures-Chemical-confetti/99/web/2021/06">Chemical confetti</a>, C&EN, Chemistry in Pictures.
 <div><img src='images/confetti.png' alt="sym" width="50%" style='position:relative; top: 50%; left: 50%; transform: translate(-50%,0%);'></div>
 <p></p>
 
