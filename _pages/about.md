@@ -28,8 +28,13 @@ redirect_from:
 
 # 📝 Publications 
 
-- [Boosting Phosphoric Acid Retention in Polymer Electrolyte Membranes by Zwitterions: Insights from DFT Calculations and MD Simulations](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c05719) **Hanyu Wu**, Jiabin Yin, Xunda Feng*, **The Journal of Physical Chemistry B** 2023, 127, 49, 10636–10646
+- [Boosting Phosphoric Acid Retention in Polymer Electrolyte Membranes by Zwitterions: Insights from DFT Calculations and MD Simulations](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c05719) **Hanyu Wu**, Jiabin Yin, Xunda Feng*, **The Journal of Physical Chemistry B** 2023, 127, 49, 10636–10646.
 <div><img src='images/JPCB2023.png' alt="sym" width="60%" ></div>
+
+- [Improving Performance of Organic Photovoltaic Devices under Low Illuminations](https://pubs.acs.org/doi/abs/10.1021/acsaem.3c01989) Jing Wang, Cuifen Zhang, Yi Lin, **Hanyu Wu**, Xunda Feng, Zaifei Ma*, **ACS Applied Energy Materials** 2023, 6, 19, 10163–10171.
+
+- [High-flux polyamide nanofiltration membranes via phosphate saline-buffered polymerization](https://www.sciencedirect.com/science/article/pii/S037673882300426X) Tong Wu, **Hanyu Wu**, Xunda Feng, Shuangjiang Luo, Minghong Wu*, Yizhou Zhang*, **Journal of Membrane Science** 2023, 681, 121770.
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
