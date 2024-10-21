@@ -41,7 +41,7 @@ redirect_from:
 - [6] [Impact of side-chain engineering on quantum efficiency and voltage losses in organic solar cells](https://www.sciencedirect.com/science/article/pii/S1385894723016406) Jing Wang, Deping Qian, Fangliang Dong, Hongbo Wu, Hailin Pan, Shijie Liang, ***<u>Hanyu Wu</u>***, Xunda Feng, Weiwei Li, Ming Wang\*, Zheng Tang\*, Zaifei Ma\*, **Chemical Engineering Journal** 2023,465, 142909.
 
 - [7] [Stabilizing Differential Interfacial Curvatures by Mismatched Molecular Geometries: Toward Polymers with Percolating 1 nm Channels of Gyroid Minimal Surfaces](https://pubs.acs.org/doi/abs/10.1021/acsnano.2c09103) ***<u>Hanyu Wu</u>***, Hairui Huang, Yizhou Zhang, Xinglin Lu, Pawel W Majewski, Xunda Feng\*, **ACS nano** 2022, 16, 21139–21151.
-<div><img src='images/ACSnano2022.png' alt="sym" width="60%" ></div>
+<div><img src='images/ACSnano2022.png' alt="sym" width="50%" ></div>
 
 
 # 🎖 Honors and Awards
