@@ -27,13 +27,18 @@ redirect_from:
 - *2023.09*: &nbsp;🎉🎉 Paper collaborated with Tong Wu was appected by Journal of Membrane Science!
 
 # 📝 Publications 
+- [Decreasing exciton dissociation rates for reduced voltage losses in organic solar cells](https://www.nature.com/articles/s41467-024-46797-5) Hongbo Wu, Hao Lu, Yungui Li, Xin Zhou, Guanqing Zhou, Hailin Pan, <u>**Hanyu Wu**</u>, Xunda Feng, Feng Liu, Koen Vandewal, Wolfgang Tress, Zaifei Ma*, Zhishan Bo*, Zheng Tang**, **Nature Communications** 2024, 15, 2693.
 
-- [Boosting Phosphoric Acid Retention in Polymer Electrolyte Membranes by Zwitterions: Insights from DFT Calculations and MD Simulations](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c05719) **Hanyu Wu**, Jiabin Yin, Xunda Feng*, **The Journal of Physical Chemistry B** 2023, 127, 49, 10636–10646.
+- [Boosting Phosphoric Acid Retention in Polymer Electrolyte Membranes by Zwitterions: Insights from DFT Calculations and MD Simulations](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c05719) <u>**Hanyu Wu**</u>, Jiabin Yin, Xunda Feng*, **The Journal of Physical Chemistry B** 2023, 127, 49, 10636–10646.
 <div><img src='images/JPCB2023.png' alt="sym" width="60%" ></div>
 
-- [Improving Performance of Organic Photovoltaic Devices under Low Illuminations](https://pubs.acs.org/doi/abs/10.1021/acsaem.3c01989) Jing Wang, Cuifen Zhang, Yi Lin, **Hanyu Wu**, Xunda Feng, Zaifei Ma*, **ACS Applied Energy Materials** 2023, 6, 19, 10163–10171.
+- [Improving Performance of Organic Photovoltaic Devices under Low Illuminations](https://pubs.acs.org/doi/abs/10.1021/acsaem.3c01989) Jing Wang, Cuifen Zhang, Yi Lin, <u>**Hanyu Wu**</u>, Xunda Feng, Zaifei Ma*, **ACS Applied Energy Materials** 2023, 6, 19, 10163–10171.
 
 - [High-flux polyamide nanofiltration membranes via phosphate saline-buffered polymerization](https://www.sciencedirect.com/science/article/pii/S037673882300426X) Tong Wu, **Hanyu Wu**, Xunda Feng, Shuangjiang Luo, Minghong Wu*, Yizhou Zhang*, **Journal of Membrane Science** 2023, 681, 121770.
+
+- [Interfacial Engineering of Block Copolymer Nanostructures: Morphology and Solvent Stability](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.3c01138) Lu Zhang, Qiuya Zhang, <u>**Hanyu Wu**</u>, Xunda Feng, Zhaoxia Jin*, **Langmuir** 2023, 39, 9230–9238.
+
+- [Impact of side-chain engineering on quantum efficiency and voltage losses in organic solar cells](https://www.sciencedirect.com/science/article/pii/S1385894723016406) Jing Wang, Deping Qian, Fangliang Dong, Hongbo Wu, Hailin Pan, Shijie Liang, <u>**Hanyu Wu**</u>, Xunda Feng, Weiwei Li, Ming Wang*, Zheng Tang*, Zaifei Ma*, **Chemical Engineering Journal** 2023,465, 142909.
 
 
 # 🎖 Honors and Awards
