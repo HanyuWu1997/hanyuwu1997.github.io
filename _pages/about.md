@@ -63,8 +63,11 @@ redirect_from:
 - [1] [可交联型两性双亲分子的合成及其溶致液晶相结构的研究](https://www.nature.com/articles/s41467-021-26995-1) 吴晗宇， 冯训达\*,**液晶与显示** 2021, 36, 1069.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018* CALM scholarship, Stephen Z. D. Cheng Education Foundation, Donghua University, China.
+<p></p>
+- *2018* Chemical confetti, C&EN, Chemistry in Pictures.
+<div><img src='images/confetti.png' alt="sym" width="50%" style='position:relative; top: 50%; left: 50%; transform: translate(-50%,0%);'></div>
+<p></p>
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
