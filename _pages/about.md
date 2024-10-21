@@ -22,8 +22,8 @@ redirect_from:
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11*: &nbsp;🎉🎉 Hanyu Wu's paper was appected by The Journal of Physical Chemistry B! 
+- *2023.09*: &nbsp;🎉🎉 Paper collaborated with Jing Wang was appected by ACS Applied Energy Materials!
 
 # 📝 Publications 
 
