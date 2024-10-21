@@ -34,7 +34,7 @@ redirect_from:
 
 [Boosting Phosphoric Acid Retention in Polymer Electrolyte Membranes by Zwitterions: Insights from DFT Calculations and MD Simulations](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c05719)
 
-**Hanyu Wu**, Jiabin Yin, Xunda Feng 
+**Hanyu Wu**, Jiabin Yin, Xunda Feng*
 </div>
 </div>
 
