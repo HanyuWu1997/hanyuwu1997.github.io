@@ -27,7 +27,8 @@ redirect_from:
 - *2023.09*: &nbsp;🎉🎉 Paper collaborated with Tong Wu was appected by Journal of Membrane Science!
 
 # 📝 Publications 
-- [1] [Decreasing exciton dissociation rates for reduced voltage losses in organic solar cells](https://www.nature.com/articles/s41467-024-46797-5)   Hongbo Wu, Hao Lu, Yungui Li, Xin Zhou, Guanqing Zhou, Hailin Pan, ***<u>Hanyu Wu</u>***, Xunda Feng, Feng Liu, Koen Vandewal, Wolfgang Tress, Zaifei Ma\*, Zhishan Bo\*, Zheng Tang\*, **Nature Communications** 2024, 15, 2693.
+- [1] [Decreasing exciton dissociation rates for reduced voltage losses in organic solar cells](https://www.nature.com/articles/s41467-024-46797-5)
+ Hongbo Wu, Hao Lu, Yungui Li, Xin Zhou, Guanqing Zhou, Hailin Pan, ***<u>Hanyu Wu</u>***, Xunda Feng, Feng Liu, Koen Vandewal, Wolfgang Tress, Zaifei Ma\*, Zhishan Bo\*, Zheng Tang\*, **Nature Communications** 2024, 15, 2693.
 
 - [2] [Boosting Phosphoric Acid Retention in Polymer Electrolyte Membranes by Zwitterions: Insights from DFT Calculations and MD Simulations](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c05719) ***<u>Hanyu Wu</u>***, Jiabin Yin, Xunda Feng*, **The Journal of Physical Chemistry B** 2023, 127, 49, 10636–10646.
 <div><img src='images/JPCB2023.png' alt="sym" width="60%" ></div>
