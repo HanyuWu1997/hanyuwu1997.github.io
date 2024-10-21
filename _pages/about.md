@@ -30,7 +30,7 @@ redirect_from:
 - [11] [Decreasing exciton dissociation rates for reduced voltage losses in organic solar cells](https://www.nature.com/articles/s41467-024-46797-5) Hongbo Wu, Hao Lu, Yungui Li, Xin Zhou, Guanqing Zhou, Hailin Pan, ***<u>Hanyu Wu</u>***, Xunda Feng, Feng Liu, Koen Vandewal, Wolfgang Tress, Zaifei Ma\*, Zhishan Bo\*, Zheng Tang\*, **Nature Communications** 2024, 15, 2693.
 
 - [10] [Boosting Phosphoric Acid Retention in Polymer Electrolyte Membranes by Zwitterions: Insights from DFT Calculations and MD Simulations](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c05719) ***<u>Hanyu Wu</u>***, Jiabin Yin, Xunda Feng\*, **The Journal of Physical Chemistry B** 2023, 127, 49, 10636–10646.
-<div style="margin: 0 auto;"><img src='images/JPCB2023.png' alt="sym" width="60%" ></div>
+<div><img src='images/JPCB2023.png' alt="sym" width="60%" style='position:relative; top: 50%; left: 50%; transform: translate(-50%,-50%);'></div>
 
 - [9] [Improving Performance of Organic Photovoltaic Devices under Low Illuminations](https://pubs.acs.org/doi/abs/10.1021/acsaem.3c01989) Jing Wang, Cuifen Zhang, Yi Lin, ***<u>Hanyu Wu</u>***, Xunda Feng, Zaifei Ma\*, **ACS Applied Energy Materials** 2023, 6, 19, 10163–10171.
 
