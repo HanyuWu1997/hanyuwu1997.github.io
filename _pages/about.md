@@ -70,12 +70,10 @@ redirect_from:
 <p></p>
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - Present*, Ph.D., Materials science, **Donghua University**, Shanghai, China.
+- *2018.09 - 2021.06*, M.Sc., Materials physics and chemistry, **Donghua University**, Shanghai,China.
+- *2014.09 - 2018.06*, B.S., Chemical engineering and technology, **North University of China**,Taiyuan, China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Academic Conference
+- *2022.09*, 2022 年海峡两岸暨港澳高分子液晶态与超分子有序结构学术研讨会, Hangzhou, China. **Oral presentation.**
+- *2021.10*, 2021 National polymer academic paper conference, Beijing, China. **Poster**
