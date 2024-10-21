@@ -38,7 +38,7 @@ redirect_from:
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Boosting Phosphoric Acid Retention in Polymer Electrolyte Membranes by Zwitterions: Insights from DFT Calculations and MD Simulations](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c05719), **Hanyu Wu**, Jiabin Yin, Xunda Feng*, **The Journal of Physical Chemistry B** 2023, 127, 49, 10636–10646
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
