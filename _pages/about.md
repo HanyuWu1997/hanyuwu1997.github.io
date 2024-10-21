@@ -50,7 +50,7 @@ redirect_from:
 <div><img src='images/ACSnano2022.png' alt="sym" width="50%" style='position:relative; top: 50%; left: 50%; transform: translate(-50%,0%);'></div>
 <p></p>
 
-- [48] [Formation and Transformation of Polystyrene-block-poly(2-vinylpyridine) Hexasomes in the Solvent Exchange](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.2c01568) Qiuya Zhang, Mengfan Lu, ***<u>Hanyu Wu</u>***, Lu Zhang, Xunda Feng, Zhaoxia Jin\*, **Langmuir** 2022, 38, 12441–12449.
+- [4] [Formation and Transformation of Polystyrene-block-poly(2-vinylpyridine) Hexasomes in the Solvent Exchange](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.2c01568) Qiuya Zhang, Mengfan Lu, ***<u>Hanyu Wu</u>***, Lu Zhang, Xunda Feng, Zhaoxia Jin\*, **Langmuir** 2022, 38, 12441–12449.
 <p></p>
 
 - [3] [Increasing donor-acceptor spacing for reduced voltage loss in organic solar cells](https://www.nature.com/articles/s41467-021-26995-1) Jing Wang, Xudong Jiang, Hongbo Wu, Guitao Feng, ***<u>Hanyu Wu</u>***, Junyu Li, Yuanping Yi, Xunda Feng, Zaifei Ma, Weiwei Li\*, Koen Vandewal\*, Zheng Tang\*, **Nature Communication** 2021, 12, 6679.
