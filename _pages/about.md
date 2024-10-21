@@ -28,10 +28,6 @@ redirect_from:
 
 # 📝 Publications 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/JPCB2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 [Boosting Phosphoric Acid Retention in Polymer Electrolyte Membranes by Zwitterions: Insights from DFT Calculations and MD Simulations](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c05719)
 
 **Hanyu Wu**, Jiabin Yin, Xunda Feng*
@@ -39,7 +35,7 @@ redirect_from:
 </div>
 
 - [Boosting Phosphoric Acid Retention in Polymer Electrolyte Membranes by Zwitterions: Insights from DFT Calculations and MD Simulations](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c05719), **Hanyu Wu**, Jiabin Yin, Xunda Feng*, **The Journal of Physical Chemistry B** 2023, 127, 49, 10636–10646
-<div><img src='images/JPCB2023.png' alt="sym" width="100%"></div>
+<div><img src='images/JPCB2023.png' alt="sym" width="60%"></div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
