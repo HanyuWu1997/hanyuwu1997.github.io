@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <p>I am now a PhD student at Donghua university, majoring in materials science.</p>
-<p>I graduated from North University of China with a bachelor’s degree and from Donghua university with a master’s degree, supervised by <a href='https://scholar.google.com/citations?user=XNfBojkAAAAJ&hl=en&oi=ao'>Prof. Xunda Feng</a>. My research interests are focused on lyotropic Liquid crystal, polymerizable amphiphiles and nanostructured polymer.</p>
+<p>I graduated from North University of China with a bachelor's degree and from Donghua University with a master's degree under the supervision of <a href='https://scholar.google.com/citations?user=XNfBojkAAAAJ&hl=en&oi=ao'>Prof. Xunda Feng</a>. My research interests focus on lyotropic liquid crystals, polymerizable amphiphiles, and nanostructured polymers.</p>
 
 
 # 🔥 News
