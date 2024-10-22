@@ -60,7 +60,7 @@ redirect_from:
 <div><img src='images/Macromolecules2021.png' alt="sym" width="50%" style='position:relative; top: 50%; left: 50%; transform: translate(-50%,0%);'></div>
 <p></p>
 
-- [1] [可交联型两性双亲分子的合成及其溶致液晶相结构的研究](https://www.nature.com/articles/s41467-021-26995-1) 吴晗宇， 冯训达\*,**液晶与显示** 2021, 36, 1069.
+- [1] [可交联型两性双亲分子的合成及其溶致液晶相结构的研究](https://cjlcd.lightpublishing.cn/thesisDetails#10.37188/CJLCD.2021-0062&lang=zh) 吴晗宇， 冯训达\*,**液晶与显示** 2021, 36, 1069.
 
 # 🎖 Honors and Awards
 - *2018* CALM scholarship, Stephen Z. D. Cheng Education Foundation, Donghua University, China.
