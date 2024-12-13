@@ -22,9 +22,9 @@ redirect_from:
 
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉🎉 Hanyu Wu's paper was appected by The Journal of Physical Chemistry B! 
-- *2023.09*: &nbsp;🎉🎉 Paper collaborated with Jing Wang was appected by ACS Applied Energy Materials!
-- *2023.09*: &nbsp;🎉🎉 Paper collaborated with Tong Wu was appected by Journal of Membrane Science!
+- *2023.11*: &nbsp;🎉🎉 Hanyu Wu's paper was accepted by The Journal of Physical Chemistry B! 
+- *2023.09*: &nbsp;🎉🎉 Paper collaborated with Jing Wang was accepted by ACS Applied Energy Materials!
+- *2023.09*: &nbsp;🎉🎉 Paper collaborated with Tong Wu was acceptedd by Journal of Membrane Science!
 
 # 📝 Publications 
 - [11] [Decreasing exciton dissociation rates for reduced voltage losses in organic solar cells](https://www.nature.com/articles/s41467-024-46797-5) Hongbo Wu, Hao Lu, Yungui Li, Xin Zhou, Guanqing Zhou, Hailin Pan, ***<u>Hanyu Wu</u>***, Xunda Feng, Feng Liu, Koen Vandewal, Wolfgang Tress, Zaifei Ma\*, Zhishan Bo\*, Zheng Tang\*, **Nature Communications** 2024, 15, 2693.
