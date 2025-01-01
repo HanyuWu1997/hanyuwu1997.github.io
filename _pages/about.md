@@ -22,6 +22,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 The first paper authored by Hanyu Wu as the corresponding author was published in Langmuir.! 
 - *2023.11*: &nbsp;🎉🎉 Hanyu Wu's paper was accepted by The Journal of Physical Chemistry B! 
 - *2023.09*: &nbsp;🎉🎉 Paper collaborated with Jing Wang was accepted by ACS Applied Energy Materials!
 - *2023.09*: &nbsp;🎉🎉 Paper collaborated with Tong Wu was acceptedd by Journal of Membrane Science!
