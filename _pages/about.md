@@ -29,6 +29,8 @@ redirect_from:
 
 # 📝 Publications 
 - [12] [Unveiling the Preference for a Carbon Spacer Length of Three in Zwitterionic Sulfobetaines: Insights from DFT Calculations](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c04179) Miaomiao Chen, Jiabin Yin, and ***<u>Hanyu Wu*</u>***, **Langmuir** 2024.
+<div><img src='images/Langmuir2024.png' alt="sym" width="60%" style='position:relative; top: 50%; left: 50%; transform: translate(-50%,0%);'></div>
+<p></p>
 <p></p>
 
 - [11] [Decreasing exciton dissociation rates for reduced voltage losses in organic solar cells](https://www.nature.com/articles/s41467-024-46797-5) Hongbo Wu, Hao Lu, Yungui Li, Xin Zhou, Guanqing Zhou, Hailin Pan, ***<u>Hanyu Wu</u>***, Xunda Feng, Feng Liu, Koen Vandewal, Wolfgang Tress, Zaifei Ma\*, Zhishan Bo\*, Zheng Tang\*, **Nature Communications** 2024, 15, 2693.
