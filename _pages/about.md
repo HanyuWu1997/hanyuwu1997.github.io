@@ -28,7 +28,7 @@ redirect_from:
 - *2023.09*: &nbsp;🎉🎉 Paper collaborated with Tong Wu was acceptedd by Journal of Membrane Science!
 
 # 📝 Publications 
-- [12] [Unveiling the Preference for a Carbon Spacer Length of Three in Zwitterionic Sulfobetaines: Insights from DFT Calculations](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c04179) Miaomiao Chen, Jiabin Yin, and ***<u>Hanyu Wu*</u>***, **Langmuir** 2024, 41, 1, 822–831.
+- [12] [Unveiling the Preference for a Carbon Spacer Length of Three in Zwitterionic Sulfobetaines: Insights from DFT Calculations](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c04179) Miaomiao Chen, Jiabin Yin, and ***<u>Hanyu Wu*</u>***, **Langmuir** 2025, 41, 1, 822–831.
 <div><img src='images/Langmuir2024.png' alt="sym" width="60%" style='position:relative; top: 50%; left: 50%; transform: translate(-50%,0%);'></div>
 <p></p>
 <p></p>
