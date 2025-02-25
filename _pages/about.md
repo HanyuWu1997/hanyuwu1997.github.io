@@ -22,15 +22,17 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Paper collaborated with Hairui Huang was published in ACS Nano!
 - *2024.12*: &nbsp;🎉🎉 The first paper authored by Hanyu Wu as the corresponding author was published in Langmuir! 
 - *2023.11*: &nbsp;🎉🎉 Hanyu Wu's paper was accepted by The Journal of Physical Chemistry B! 
 - *2023.09*: &nbsp;🎉🎉 Paper collaborated with Jing Wang was accepted by ACS Applied Energy Materials!
-- *2023.09*: &nbsp;🎉🎉 Paper collaborated with Tong Wu was acceptedd by Journal of Membrane Science!
 
-# 📝 Publications 
+# 📝 Publications
+- [13] [Polyhedral Polymeric Microparticles with Interwoven 1 nm Gyroid Pores for Precise Adsorption and Nanoconfined Degradation](https://pubs.acs.org/doi/10.1021/acsnano.4c16888) Hairui Huang,***<u>Hanyu Wu</u>***, Yizhou Zhang, Xunda Feng\*, **ACS Nano** 2025.
+<p></p>
+
 - [12] [Unveiling the Preference for a Carbon Spacer Length of Three in Zwitterionic Sulfobetaines: Insights from DFT Calculations](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c04179) Miaomiao Chen, Jiabin Yin, and ***<u>Hanyu Wu*</u>***, **Langmuir** 2025, 41, 1, 822–831.
 <div><img src='images/Langmuir2024.png' alt="sym" width="60%" style='position:relative; top: 50%; left: 50%; transform: translate(-50%,0%);'></div>
-<p></p>
 <p></p>
 
 - [11] [Decreasing exciton dissociation rates for reduced voltage losses in organic solar cells](https://www.nature.com/articles/s41467-024-46797-5) Hongbo Wu, Hao Lu, Yungui Li, Xin Zhou, Guanqing Zhou, Hailin Pan, ***<u>Hanyu Wu</u>***, Xunda Feng, Feng Liu, Koen Vandewal, Wolfgang Tress, Zaifei Ma\*, Zhishan Bo\*, Zheng Tang\*, **Nature Communications** 2024, 15, 2693.
