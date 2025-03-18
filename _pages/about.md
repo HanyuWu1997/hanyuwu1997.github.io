@@ -28,7 +28,7 @@ redirect_from:
 - *2023.09*: &nbsp;🎉🎉 Paper collaborated with Jing Wang was accepted by ACS Applied Energy Materials!
 
 # 📝 Publications
-- [13] [Polyhedral Polymeric Microparticles with Interwoven 1 nm Gyroid Pores for Precise Adsorption and Nanoconfined Degradation](https://pubs.acs.org/doi/10.1021/acsnano.4c16888) Hairui Huang,***<u>Hanyu Wu</u>***, Yizhou Zhang, Xunda Feng\*, **ACS Nano** 2025.
+- [13] [Polyhedral Polymeric Microparticles with Interwoven 1 nm Gyroid Pores for Precise Adsorption and Nanoconfined Degradation](https://pubs.acs.org/doi/10.1021/acsnano.4c16888) Hairui Huang,***<u>Hanyu Wu</u>***, Yizhou Zhang, Xunda Feng\*, **ACS Nano** 2025, 19, 9, 8926–8938.
 <p></p>
 
 - [12] [Unveiling the Preference for a Carbon Spacer Length of Three in Zwitterionic Sulfobetaines: Insights from DFT Calculations](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c04179) Miaomiao Chen, Jiabin Yin, and ***<u>Hanyu Wu*</u>***, **Langmuir** 2025, 41, 1, 822–831.
