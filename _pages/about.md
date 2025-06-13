@@ -22,12 +22,15 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Paper collaborated with Miaomiao Chen was published in Separation and Purification Technology!
 - *2025.02*: &nbsp;🎉🎉 Paper collaborated with Hairui Huang was published in ACS Nano!
 - *2024.12*: &nbsp;🎉🎉 The first paper authored by Hanyu Wu as the corresponding author was published in Langmuir! 
 - *2023.11*: &nbsp;🎉🎉 Hanyu Wu's paper was accepted by The Journal of Physical Chemistry B! 
-- *2023.09*: &nbsp;🎉🎉 Paper collaborated with Jing Wang was accepted by ACS Applied Energy Materials!
 
 # 📝 Publications
+- [14] [Fabrication of PTFE foam coated composite materials with hierarchical porosity and enhanced durability for High-Temperature air filtration](https://www.sciencedirect.com/science/article/pii/S1383586625025614?via%3Dihub) Miaomiao Chen,***<u>Hanyu Wu</u>***, Yongchun Zeng, Hong Wang\*, **Separation and Purification Technology** 2025.
+<p></p>
+
 - [13] [Polyhedral Polymeric Microparticles with Interwoven 1 nm Gyroid Pores for Precise Adsorption and Nanoconfined Degradation](https://pubs.acs.org/doi/10.1021/acsnano.4c16888) Hairui Huang,***<u>Hanyu Wu</u>***, Yizhou Zhang, Xunda Feng\*, **ACS Nano** 2025, 19, 9, 8926–8938.
 <p></p>
 
