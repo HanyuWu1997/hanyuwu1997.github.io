@@ -28,10 +28,10 @@ redirect_from:
 - *2023.11*: &nbsp;🎉🎉 Hanyu Wu's paper was accepted by The Journal of Physical Chemistry B! 
 
 # 📝 Publications
-- [14] [Fabrication of PTFE foam coated composite materials with hierarchical porosity and enhanced durability for High-Temperature air filtration.](https://www.sciencedirect.com/science/article/pii/S1383586625025614?via%3Dihub) Miaomiao Chen,***<u>Hanyu Wu</u>***, Yongchun Zeng, Hong Wang\*, **Separation and Purification Technology** 2025.
+- [14] [Fabrication of PTFE foam coated composite materials with hierarchical porosity and enhanced durability for High-Temperature air filtration.](https://www.sciencedirect.com/science/article/pii/S1383586625025614?via%3Dihub) Miaomiao Chen, ***<u>Hanyu Wu</u>***, Yongchun Zeng, Hong Wang\*, **Separation and Purification Technology** 2025.
 <p></p>
 
-- [13] [Polyhedral Polymeric Microparticles with Interwoven 1 nm Gyroid Pores for Precise Adsorption and Nanoconfined Degradation.](https://pubs.acs.org/doi/10.1021/acsnano.4c16888) Hairui Huang,***<u>Hanyu Wu</u>***, Yizhou Zhang, Xunda Feng\*, **ACS Nano** 2025, 19, 9, 8926–8938.
+- [13] [Polyhedral Polymeric Microparticles with Interwoven 1 nm Gyroid Pores for Precise Adsorption and Nanoconfined Degradation.](https://pubs.acs.org/doi/10.1021/acsnano.4c16888) Hairui Huang, ***<u>Hanyu Wu</u>***, Yizhou Zhang, Xunda Feng\*, **ACS Nano** 2025, 19, 9, 8926–8938.
 <p></p>
 
 - [12] [Unveiling the Preference for a Carbon Spacer Length of Three in Zwitterionic Sulfobetaines: Insights from DFT Calculations.](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c04179) Miaomiao Chen, Jiabin Yin, and ***<u>Hanyu Wu*</u>***, **Langmuir** 2025, 41, 1, 822–831.
