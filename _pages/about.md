@@ -22,7 +22,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 Paper collaborated with Miaomiao Chen was published in Separation and Purification Technology!
+- *2025.06*: &nbsp;🎉🎉 Paper collaborated with Miaomiao Chen was published in Separation and Purification Technology!
 - *2025.02*: &nbsp;🎉🎉 Paper collaborated with Hairui Huang was published in ACS Nano!
 - *2024.12*: &nbsp;🎉🎉 The first paper authored by Hanyu Wu as the corresponding author was published in Langmuir! 
 - *2023.11*: &nbsp;🎉🎉 Hanyu Wu's paper was accepted by The Journal of Physical Chemistry B! 
