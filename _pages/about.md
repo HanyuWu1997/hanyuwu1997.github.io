@@ -82,7 +82,7 @@ redirect_from:
 <p></p>
 
 # 📖 Educations
-- *2021.09 - Present*, Ph.D., Materials science, **Donghua University**, Shanghai, China.
+- *2021.09 - 2025.06*, Ph.D., Materials science, **Donghua University**, Shanghai, China.
 - *2018.09 - 2021.06*, M.Sc., Materials physics and chemistry, **Donghua University**, Shanghai,China.
 - *2014.09 - 2018.06*, B.S., Chemical engineering and technology, **North University of China**,Taiyuan, China
 
