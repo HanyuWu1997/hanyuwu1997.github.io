@@ -31,7 +31,7 @@ redirect_from:
 
 # 📝 Publications
 - [15] [Molecular Insights into Carbon Spacer Length Effects on Sulfobetaine–Phosphoric Acid Interactions: Optimizing Acid Retention for Polymer Electrolytes.](https://pubs.acs.org/doi/10.1021/acs.jpcb.5c03775) ***<u>Hanyu Wu*</u>***, **The Journal of Physical Chemistry B** 2025.
-<div><img src='images/jpcb2025.png' alt="sym" width="60%" style='position:relative; top: 50%; left: 50%; transform: translate(-50%,0%);'></div>
+<div><img src='images/JPCB2025.png' alt="sym" width="60%" style='position:relative; top: 50%; left: 50%; transform: translate(-50%,0%);'></div>
 <p></p>
 
 - [14] [Fabrication of PTFE foam coated composite materials with hierarchical porosity and enhanced durability for High-Temperature air filtration.](https://www.sciencedirect.com/science/article/pii/S1383586625025614?via%3Dihub) Miaomiao Chen, ***<u>Hanyu Wu</u>***, Yongchun Zeng, Hong Wang\*, **Separation and Purification Technology** 2025, 376, 2, 133964.
