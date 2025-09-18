@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hanyu Wu (吴晗宇)"
-description              : "lecturer at Jingchu University of Technology"
+description              : #"lecturer"
 repository               : "HanyuWu1997/hanyuwu1997.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hanyu Wu (吴晗宇)"
   avatar           : "images/profile.png"
-  bio              : "Donghua University"
+  bio              : "Jingchu University of Technology"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
