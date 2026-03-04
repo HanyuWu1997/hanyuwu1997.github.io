@@ -23,13 +23,16 @@ redirect_from:
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 Paper collaborated with Shijie Ge was published in Advanced Composites and Hybrid Materials!
 - *2025.09*: &nbsp;🎉🎉 Hanyu Wu's single-author paper was accepted by The Journal of Physical Chemistry B! 
 - *2025.06*: &nbsp;🎉🎉 Paper collaborated with Miaomiao Chen was published in Separation and Purification Technology!
 - *2025.02*: &nbsp;🎉🎉 Paper collaborated with Hairui Huang was published in ACS Nano!
 - *2024.12*: &nbsp;🎉🎉 The first paper authored by Hanyu Wu as the corresponding author was published in Langmuir! 
-- *2023.11*: &nbsp;🎉🎉 Hanyu Wu's paper was accepted by The Journal of Physical Chemistry B! 
 
 # 📝 Publications
+- [16] [A versatile Heptazine-COF hybridized ABPBI composite proton exchange membrane with enhanced conductivity and durability for high temperature fuel cell.](https://link.springer.com/article/10.1007/s42114-025-01598-2) Shijie Ge, Yu Yang, Tao Zhang, ***<u>Hanyu Wu</u>*** , Biao Wang\*, **Advanced Composites and Hybrid Materials** 2026, 9, 62.
+<p></p>
+
 - [15] [Molecular Insights into Carbon Spacer Length Effects on Sulfobetaine–Phosphoric Acid Interactions: Optimizing Acid Retention for Polymer Electrolytes.](https://pubs.acs.org/doi/10.1021/acs.jpcb.5c03775) ***<u>Hanyu Wu*</u>***, **The Journal of Physical Chemistry B** 2025, 129, 37, 9475-9484.
 <div><img src='images/JPCB2025.png' alt="sym" width="60%" style='position:relative; top: 50%; left: 50%; transform: translate(-50%,0%);'></div>
 <p></p>
