@@ -30,7 +30,7 @@ redirect_from:
 - *2025.02*: &nbsp;🎉🎉 Paper collaborated with Hairui Huang was published in ACS Nano!
 
 # 📝 Publications
-- [17] [Interfacial rheology for physics-based structuring of polyamide desalination membranes.](https://www.nature.com/articles/s44286-026-00419-7)  Qingchen Tang, Panjia Jiang, Hao Chen, ***<u>Hanyu Wu</u>***, Yu Chen, Wu Jin, Xingwang Meng, Denghui Li, Shan Chang, Zhiyang Zhu, Xinglin Lu\*, Song-Chuan Zhao, Yizhou Zhang, Menachem Elimelech\* & Xunda Feng\*, **Nature Chemical Engineering** 2026.
+- [17] [Interfacial rheology for physics-based structuring of polyamide desalination membranes.](https://www.nature.com/articles/s44286-026-00419-7)  Qingchen Tang, Panjia Jiang, Hao Chen, ***<u>Hanyu Wu</u>***, Yu Chen, Wu Jin, Xingwang Meng, Denghui Li, Shan Chang, Zhiyang Zhu, Xinglin Lu\*, Song-Chuan Zhao, Yizhou Zhang, Menachem Elimelech\*, Xunda Feng\*, **Nature Chemical Engineering** 2026.
 <p></p>
 
 - [16] [A versatile Heptazine-COF hybridized ABPBI composite proton exchange membrane with enhanced conductivity and durability for high temperature fuel cell.](https://link.springer.com/article/10.1007/s42114-025-01598-2) Shijie Ge, Yu Yang, Tao Zhang, ***<u>Hanyu Wu</u>*** , Biao Wang\*, **Advanced Composites and Hybrid Materials** 2026, 9, 62.
