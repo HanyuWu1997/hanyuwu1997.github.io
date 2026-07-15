@@ -23,13 +23,16 @@ redirect_from:
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 Paper collaborated with Qingchen Tang was published in  was published in Nature Chemical Engineering! 
 - *2026.01*: &nbsp;🎉🎉 Paper collaborated with Shijie Ge was published in Advanced Composites and Hybrid Materials!
 - *2025.09*: &nbsp;🎉🎉 Hanyu Wu's single-author paper was accepted by The Journal of Physical Chemistry B! 
 - *2025.06*: &nbsp;🎉🎉 Paper collaborated with Miaomiao Chen was published in Separation and Purification Technology!
 - *2025.02*: &nbsp;🎉🎉 Paper collaborated with Hairui Huang was published in ACS Nano!
-- *2024.12*: &nbsp;🎉🎉 The first paper authored by Hanyu Wu as the corresponding author was published in Langmuir! 
 
 # 📝 Publications
+- [17] [Interfacial rheology for physics-based structuring of polyamide desalination membranes.](https://www.nature.com/articles/s44286-026-00419-7)  Qingchen Tang, Panjia Jiang, Hao Chen, ***<u>Hanyu Wu</u>***, Yu Chen, Wu Jin, Xingwang Meng, Denghui Li, Shan Chang, Zhiyang Zhu, Xinglin Lu\*, Song-Chuan Zhao, Yizhou Zhang, Menachem Elimelech\* & Xunda Feng\*, **Nature Chemical Engineering** 2026.
+<p></p>
+
 - [16] [A versatile Heptazine-COF hybridized ABPBI composite proton exchange membrane with enhanced conductivity and durability for high temperature fuel cell.](https://link.springer.com/article/10.1007/s42114-025-01598-2) Shijie Ge, Yu Yang, Tao Zhang, ***<u>Hanyu Wu</u>*** , Biao Wang\*, **Advanced Composites and Hybrid Materials** 2026, 9, 62.
 <p></p>
 
