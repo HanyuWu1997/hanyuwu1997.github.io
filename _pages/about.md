@@ -23,11 +23,11 @@ redirect_from:
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 Paper collaborated with Qingchen Tang was published in  was published in Nature Communications! 
 - *2026.07*: &nbsp;🎉🎉 Paper collaborated with Qingchen Tang was published in  was published in Nature Chemical Engineering! 
 - *2026.01*: &nbsp;🎉🎉 Paper collaborated with Shijie Ge was published in Advanced Composites and Hybrid Materials!
 - *2025.09*: &nbsp;🎉🎉 Hanyu Wu's single-author paper was accepted by The Journal of Physical Chemistry B! 
 - *2025.06*: &nbsp;🎉🎉 Paper collaborated with Miaomiao Chen was published in Separation and Purification Technology!
-- *2025.02*: &nbsp;🎉🎉 Paper collaborated with Hairui Huang was published in ACS Nano!
 
 # 📝 Publications
 - [18] [Breaking water-structure constraints by Hofmeister effects in interfacial polymerization for polyamide membranes.](https://www.nature.com/articles/s41467-026-78649-9)   Qingchen Tang, Hao Chen, Yu Chen, ***<u>Hanyu Wu</u>***, Xingwang Meng, Wu Jin, Panjia Jiang, Yizhou Zhang & Xunda Feng\*, **Nature Communications** 2026.
