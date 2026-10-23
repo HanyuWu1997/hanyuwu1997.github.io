@@ -30,6 +30,9 @@ redirect_from:
 - *2025.02*: &nbsp;🎉🎉 Paper collaborated with Hairui Huang was published in ACS Nano!
 
 # 📝 Publications
+- [18] [Breaking water-structure constraints by Hofmeister effects in interfacial polymerization for polyamide membranes.](https://www.nature.com/articles/s41467-026-78649-9)   Qingchen Tang, Hao Chen, Yu Chen, ***<u>Hanyu Wu</u>***, Xingwang Meng, Wu Jin, Panjia Jiang, Yizhou Zhang & Xunda Feng\*, **Nature Communications** 2026.
+<p></p>
+
 - [17] [Interfacial rheology for physics-based structuring of polyamide desalination membranes.](https://www.nature.com/articles/s44286-026-00419-7)  Qingchen Tang, Panjia Jiang, Hao Chen, ***<u>Hanyu Wu</u>***, Yu Chen, Wu Jin, Xingwang Meng, Denghui Li, Shan Chang, Zhiyang Zhu, Xinglin Lu\*, Song-Chuan Zhao, Yizhou Zhang, Menachem Elimelech\*, Xunda Feng\*, **Nature Chemical Engineering** 2026, 3, 390-401.
 <p></p>
 
